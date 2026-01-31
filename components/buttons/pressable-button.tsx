@@ -82,6 +82,7 @@ const styles = StyleSheet.create({
   },
   buttonPressed: {
     opacity: 0.85,
+    backgroundColor: '#fff',
   },
   buttonDisabled: {
     opacity: 0.5,
